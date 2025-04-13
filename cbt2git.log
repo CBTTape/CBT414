@@ -1,0 +1,7 @@
+2025-04-13 19:29:16.466839 - Received CBT.V508.FILE414.PDS from FILE414.XMI 
+2025-04-13 19:29:16.467660 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE414.PDS, moved to PDS/$$$#DATE
+2025-04-13 19:29:16.467754 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE414.PDS, moved to PDS/$$NOTE
+2025-04-13 19:29:16.467833 - Found $$README.txt (text/plain) in CBT.V508.FILE414.PDS, moved to PDS/$$README
+2025-04-13 19:29:16.467904 - Found @FILE414.txt (text/plain) in CBT.V508.FILE414.PDS, moved to PDS/@FILE414
+2025-04-13 19:29:16.467987 - Found REWRITE.jcl (text/plain) in CBT.V508.FILE414.PDS, moved to PDS/REWRITE
+2025-04-13 19:29:16.468080 - Found REWRITEO.txt (text/plain) in CBT.V508.FILE414.PDS, moved to PDS/REWRITEO
